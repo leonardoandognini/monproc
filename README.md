@@ -1,7 +1,7 @@
 monproc
 ===============
 
-Monitoramento de processamento de servidores LINUX 
+Monitorar processamento de servidores LINUX 
 ===============
 Shell script para monitorar load de servidores linux entre intervalos de 20 segundos.
 
